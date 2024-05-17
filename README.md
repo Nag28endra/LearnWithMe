@@ -209,6 +209,6 @@ Check out the Python🐍and the SQL curriculum down below. It is the detailed cu
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nag28endra.github.io/Myportfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagendra-marisetti-mv28nb/)
-[![Instagram](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/mv28nb/)
+[![Instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/mv28nb/)
 
 

@@ -1,22 +1,21 @@
-# LearnWithMe
-
-
+![logo](https://github.com/Nag28endra/LearnWithMe/assets/61658750/51d5a48a-c357-4fca-8469-374562d9f99a)  
 
 
 # Hi!👋 I'm Nagendra Marisetti👽, your instructor.
 
-Check out the Python🐍and the SQL curriculum down below. It is the detailed curriculum that we are going cover throughout our journey. Let's kick start our programming journey📈.
+Welcome to learnWithMe programme. This is the program where you'll learn programming language for problem solving. 
+
+Check out the Python🐍It is the detailed curriculum that we are going cover throughout our journey. Let's kick start our programming journey📈.
 
 ## Python Programming
-![image](https://github.com/Nag28endra/LearnWithMe/assets/61658750/9b8d8351-88f2-4ee2-98c9-83bef3508bd4)
-
+![image](https://github.com/Nag28endra/LearnWithMe/assets/61658750/aa71d182-9b4f-4ed1-88f9-3ebe0c7eb10e)
 
 ### Fundamentals
  1. **Introduction**
-    - What is Python?
-    - Comparison b/w Python C++ and Java.
-    - Applications of Python
-    - Installation of Python and IDE.
+    - Importance of Problem solving
+    - Python Vs C++ Vs Java
+    - Python Introduction
+    - Python Setup
 
 2. **Variables, data types and Identifiers**
     - What are VDI?
@@ -92,118 +91,6 @@ Check out the Python🐍and the SQL curriculum down below. It is the detailed cu
 17. **Time Complexity**
 18. **Numpy and Pandas and their use cases.**
 
-## SQL
-![image](https://github.com/Nag28endra/LearnWithMe/assets/61658750/68d60612-82cb-484b-9cd2-c0f3625dff80)
-
-1. Introduction to SQL
-- **Definition and Purpose**
-  - What is SQL?
-  - Importance and applications
-- **Basic Concepts**
-  - Databases and Tables
-  - SQL Syntax and Conventions
-
-2. Database Fundamentals
-- **Types of Databases**
-  - Relational Databases
-  - Non-Relational Databases (brief overview)
-- **Database Management Systems (DBMS)**
-  - Popular DBMS: MySQL, PostgreSQL, SQLite, SQL Server, Oracle
-
-3. Setting Up the Environment
-- **Installing SQL Software**
-  - Installing MySQL
-- **Connecting to the Database**
-  - Using Command Line Interface (CLI)
-  - Using Graphical User Interface (GUI) tools (e.g., MySQL Workbench, pgAdmin)
-
-4. Basic SQL Commands
-- **Creating Databases and Tables**
-  - `CREATE DATABASE`
-  - `CREATE TABLE`
-- **Basic Data Types**
-  - INT, VARCHAR, DATE, etc.
-
-5. Data Manipulation Language (DML)
-- **Inserting Data**
-  - `INSERT INTO`
-- **Reading Data**
-  - `SELECT`
-  - Filtering with `WHERE`
-- **Updating Data**
-  - `UPDATE`
-- **Deleting Data**
-  - `DELETE`
-
-6. Data Querying
-- **Basic Queries**
-  - Selecting Specific Columns
-  - Renaming Columns with Aliases
-- **Filtering Data**
-  - Using `WHERE` clause
-  - Logical Operators: AND, OR, NOT
-- **Sorting Results**
-  - `ORDER BY`
-- **Limiting Results**
-  - `LIMIT` / `OFFSET`
-
-7. Advanced Querying
-- **Aggregate Functions**
-  - `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`
-- **Grouping Data**
-  - `GROUP BY`
-  - `HAVING`
-- **Joining Tables**
-  - Inner Join
-  - Left Join
-  - Right Join
-  - Full Outer Join
-  - Cross Join
-
-  8. Subqueries and Nested Queries
-- **Introduction to Subqueries**
-  - Scalar Subqueries
-  - Correlated Subqueries
-- **Using Subqueries in `SELECT`, `FROM`, `WHERE`, `HAVING`**
-
-9. . Data Definition Language (DDL)
-- **Altering Tables**
-  - `ALTER TABLE`
-  - Adding and Dropping Columns
-  - Modifying Column Definitions
-- **Removing Tables**
-  - `DROP TABLE`
-- **Creating and Managing Indexes**
-  - `CREATE INDEX`
-  - `DROP INDEX`
-
-10. Constraints and Keys
-- **Primary Key**
-- **Foreign Key**
-- **Unique Constraint**
-- **Check Constraint**
-- **Default Values**
-
-11. Transactions and Concurrency
-- **Transaction Control**
-  - `BEGIN`, `COMMIT`, `ROLLBACK`
-- **ACID Properties**
-  - Atomicity, Consistency, Isolation, Durability
-- **Isolation Levels**
-
- 12. Views and Stored Procedures
-- **Creating and Managing Views**
-  - `CREATE VIEW`
-  - Updating Views
-- **Stored Procedures and Functions**
-  - Creating Stored Procedures
-  - Executing Stored Procedures
-  - Creating User-Defined Functions
-
- 13. Advanced Topics
-- **Triggers**
-  - Creating Triggers
-  - Using Triggers for Auditing and Automation
 
 
 ## 🔗 Links
